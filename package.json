@@ -8,7 +8,7 @@
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-redux": "^7.1.1",
-    "react-scripts": "2.1.8",
+    "react-scripts": "5.0.1",
     "redux": "^4.0.4",
     "styled-components": "^4.4.1",
     "yup": "^0.27.0"
@@ -28,7 +28,7 @@
   "devDependencies": {
     "@testing-library/jest-dom": "^4.2.3",
     "@testing-library/react": "^9.3.2",
-    "eslint": "^5.12.0",
+    "eslint": "^9.39.1",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-config-prettier": "^4.1.0",
     "eslint-plugin-import": "^2.16.0",
